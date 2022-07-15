@@ -33,3 +33,4 @@ Twitter：と所属コミュニティの slack を通じて回答フォームの
 ### pattern8
 ![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/pattern_8.gif)
 ## 結果
+![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/result.png)
