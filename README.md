@@ -18,19 +18,19 @@ Twitter：と所属コミュニティの slack を通じて回答フォームの
 
 ## 評価対象
 ### pattern1
-![image]()
+![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/pattern_1.gif)
 ### pattern2
-
+![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/pattern_2.gif)
 ### pattern3
-
+![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/pattern_3.gif)
 ### pattern4
-
+![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/pattern_4.gif)
 ### pattern5
-
+![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/pattern_5.gif)
 ### pattern6
-
+![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/pattern_6.gif)
 ### pattern7
-
+![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/pattern_7.gif)
 ### pattern8
-
+![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/pattern_8.gif)
 ## 結果
