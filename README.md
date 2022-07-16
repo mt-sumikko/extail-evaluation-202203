@@ -16,7 +16,7 @@ Extailによる髪の動的表現について，アンケート調査を行っ�
  - Twitter：と所属コミュニティのslackを通じて回答フォームのURLを提示
 - 回答者数：9名
 
-## 評価対象
+## Movement to be evaluated
 ### pattern1
 ![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/pattern_1.gif)
 ### pattern2
