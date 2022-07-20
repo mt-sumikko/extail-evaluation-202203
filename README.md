@@ -38,9 +38,9 @@ Each parameter is set within the following ranges.
 
 ![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/result.png)
 
-| Operation Pattern |      Amplitude      | Turn waiting time |
+| Operation Pattern |      Amplitude      | Turn waiting time | Answer (What state does the person wearing Extail appear to be in?) |
 | :---------------- | :-----------------: | ----------------: |
-| hoge              | Ultra-small<br>[10] |       High<br>[2] | None<br>[0] | Upset, Fear, Surprised, Scared, Thrilled, nervous |
+| hoge              | Ultra-small<br>[10] |       High<br>[2] | None<br>[0]                                                         | Upset, Fear, Surprised, Scared, Thrilled, nervous |
 | hoge              |          ^          |                 ^ |
 | hoge              |          ^          |                 ^ |
 | hoge              |                     |              piyo |
