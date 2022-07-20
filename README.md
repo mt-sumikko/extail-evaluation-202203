@@ -32,16 +32,16 @@ Participants watched [videos of eight movement patterns](https://github.com/mt-s
 ![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/pattern_8.gif)
 ## 結果
 Each parameter is set within the following ranges.
-- Amplitude（5〜70）: Rotation angle of stepper motor shaft, equivalent to 15 to 210 degrees
-- Speed（2〜8）： Equivalent to the interval between steps on the shaft of the stepper motor; the unit is ms; the higher the value, the slower the motor rotates.
-- Turn waiting time（0〜10000[ms]）: The time it takes for the stepper motor to swing off to one side at a certain amplitude and then start moving in the opposite direction.
+- Amplitude（15-210[degrees]）: Rotation angle of stepper motor shaft. The higher the value, the larger the amplitude.
+- Speed（2-8[ms]）： Equivalent to the interval between steps on the shaft of the stepper motor; the unit is ms; the higher the value, the slower the motor rotates.
+- Turn waiting time（0-10000[ms]）: The time it takes for the stepper motor to swing off to one side at a certain amplitude and then start moving in the opposite direction.
 
 ![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/result.png)
 
-| Operation Pattern |      Amplitude      | Turn waiting time | Answer (What state does the person wearing Extail appear to be in?) |
-| :---------------- | :-----------------: | ----------------: | ------------------------------------------------------------------: |
-| hoge              | Ultra-small<br>[10] |       High<br>[2] |                                                         None<br>[0] | Upset, Fear, Surprised, Scared, Thrilled, nervous |
-| hoge              |          ^          |                 ^ |
-| hoge              |          ^          |                 ^ |
-| hoge              |                     |              piyo |
-| ^                 |          ^          |              piyo |
+| Operation Pattern |      Amplitude      |    Speed    | Turn waiting time | Answer (What state does the person wearing Extail appear to be in?) |
+| :---------------- | :-----------------: | :---------: | :---------------: |
+| 1                 | 10<br>(Ultra-small) | 2<br>(High) |    0<br>(None)    | Upset, Fear, Surprised, Scared, Thrilled, nervous                   |
+| 2                 |          ^          |      ^      |
+| 3                 |          ^          |      ^      |
+| 4                 |                     |    piyo     |
+| ^                 |          ^          |    piyo     |
