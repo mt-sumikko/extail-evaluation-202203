@@ -1,20 +1,20 @@
 # extail-evaluation-202203
 
-Extailによる髪の動的表現について，アンケート調査を行った。
+We conducted a questionnaire survey on the dynamic expression of hair by Extail.
 
-## 調査概要
-振りの動きを構成する以下の3要素を様々に組み合わせた[8パターンの動き](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/README.md#%E8%A9%95%E4%BE%A1%E5%AF%BE%E8%B1%A1)を動画で提示し、デバイス着用者がどんな様子にみえるかを自由記述式で回答してもらった。
-- 振幅（0〜70）
-- 速度（2〜8）
-- ターン時の待機時間（0〜10000[ms]）
+## Survey Summary
+Participants watched [videos of eight movement patterns](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/README.md#%E8%A9%95%E4%BE%A1%E5%AF%BE%E8%B1%A1)with various combinations of swing amplitude, speed, and turn waiting time and responded. 
+- Amplitude（0〜70）
+- Speed（2〜8）
+- Turn waiting time（0〜10000[ms]）
  
-## 調査方法
-- 実施期間：2022/03/01–2022/03/25
-- 調査手法：インターネット上のアンケート作成フォーム「Google フォーム」を利用したウェブ調査
-- 配布経路：
- - 東京都立大学卒業修了制作展2022　展示の一角に回答フォームのQRコードを提示，
- - Twitter：と所属コミュニティのslackを通じて回答フォームのURLを提示
-- 回答者数：9名
+## Method of Survey
+- Implementation period: 2022/03/01-2022/03/25
+- Survey method: Web-based survey using Google Forms, an Internet-based questionnaire creation form.
+- Distribution channels:
+ - QR code for response form presented in a corner of the exhibition at the Tokyo Metropolitan University Graduation Works Exhibition 2022.
+ - Provide the URL to the response form via Twitter and the slack community I belong to.
+- Number of respondents: 9
 
 ## Movement to be evaluated
 ### pattern1
