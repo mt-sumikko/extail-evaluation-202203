@@ -4,9 +4,6 @@ We conducted a questionnaire survey on the dynamic expression of hair by Extail.
 
 ## Survey Summary
 Participants watched [videos of eight movement patterns](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/README.md#%E8%A9%95%E4%BE%A1%E5%AF%BE%E8%B1%A1)with various combinations of swing amplitude, speed, and turn waiting time and responded. 
-- Amplitude（0〜70）
-- Speed（2〜8）
-- Turn waiting time（0〜10000[ms]）
  
 ## Method of Survey
 - Implementation period: 2022/03/01-2022/03/25
@@ -34,4 +31,9 @@ Participants watched [videos of eight movement patterns](https://github.com/mt-s
 ### pattern8
 ![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/pattern_8.gif)
 ## 結果
+Each parameter is set within the following ranges.
+- Amplitude（5〜70）: Rotation angle of stepper motor shaft, equivalent to 15 to 210 degrees
+- Speed（2〜8）： Equivalent to the interval between steps on the shaft of the stepper motor; the unit is ms; the higher the value, the slower the motor rotates.
+- Turn waiting time（0〜10000[ms]）: The time it takes for the stepper motor to swing off to one side at a certain amplitude and then start moving in the opposite direction.
+
 ![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/result.png)
