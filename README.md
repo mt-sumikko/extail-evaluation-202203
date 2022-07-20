@@ -3,7 +3,7 @@
 We conducted a questionnaire survey on the dynamic expression of hair by Extail.
 
 ## Survey Summary
-Participants watched [videos of eight movement patterns](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/README.md#%E8%A9%95%E4%BE%A1%E5%AF%BE%E8%B1%A1) with various combinations of swing amplitude, speed, and turn waiting time and responded. 
+Participants watched [videos of eight movement patterns](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/README.md#%E8%A9%95%E4%BE%A1%E5%AF%BE%E8%B1%A1) with various combinations of swing amplitude, speed, and turn waiting time and responded  in an open-ended format to what the wearer appeared to be.
  
 ## Method of Survey
 - Implementation period: 2022/03/01-2022/03/25
