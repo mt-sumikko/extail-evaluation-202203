@@ -9,8 +9,8 @@ Participants watched [videos of eight movement patterns](https://github.com/mt-s
 - Implementation period: 2022/03/01-2022/03/25
 - Survey method: Web-based survey using Google Forms, an Internet-based questionnaire creation form.
 - Distribution channels:
- - QR code for response form presented in a corner of the exhibition at the Tokyo Metropolitan University Graduation Works Exhibition 2022.
- - Provide the URL to the response form via Twitter and the slack community I belong to.
+    - QR code for response form presented in a corner of the exhibition at the Tokyo Metropolitan University Graduation Works Exhibition 2022.
+    - Provide the URL to the response form via Twitter and the slack community I belong to.
 - Number of respondents: 9
 
 ## Movement to be evaluated
