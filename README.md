@@ -39,7 +39,7 @@ Each parameter is set within the following ranges.
 ![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/result.png)
 
 | Operation Pattern |      Amplitude      |    Speed    | Turn waiting time | Answer (What state does the person wearing Extail appear to be in?) |
-| :---------------- | :-----------------: | :---------: | :---------------: |
+| :---------------- | :-----------------: | :---------: | :---------------: | :------------------------------------------------------------------ |
 | 1                 | 10<br>(Ultra-small) | 2<br>(High) |    0<br>(None)    | Upset, Fear, Surprised, Scared, Thrilled, nervous                   |
 | 2                 |          ^          |      ^      |
 | 3                 |          ^          |      ^      |
