@@ -38,10 +38,10 @@ Each parameter is set within the following ranges.
 
 ![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/result.png)
 
-|header1|header2|header3|
-|:------|:-----:|------:|
-|hoge   |>      |piyo   |
-|hoge   |^      |^      |
-|hoge   |^      |^      |
-|hoge   |       |piyo   |
-|^      |^      |piyo   |
+| Operation Pattern |      Amplitude      | Turn waiting time |
+| :---------------- | :-----------------: | ----------------: |
+| hoge              | Ultra-small<br>[10] |       High<br>[2] | None<br>[0] | Upset, Fear, Surprised, Scared, Thrilled, nervous |
+| hoge              |          ^          |                 ^ |
+| hoge              |          ^          |                 ^ |
+| hoge              |                     |              piyo |
+| ^                 |          ^          |              piyo |
