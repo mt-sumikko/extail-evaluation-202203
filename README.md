@@ -36,8 +36,6 @@ Each parameter is set within the following ranges.
 - Speed（2-8[ms]）： Equivalent to the interval between steps on the shaft of the stepper motor; the unit is ms; the higher the value, the slower the motor rotates.
 - Turn waiting time（0-10000[ms]）: The time it takes for the stepper motor to swing off to one side at a certain amplitude and then start moving in the opposite direction.
 
-![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/result.png)
-
 | Operation Pattern |       Amplitude        |        Speed         |  Turn waiting time  | Answer (What state does the person wearing Extail appear to be in?)                                                                                              |
 | :---------------: | :--------------------: | :------------------: | :-----------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |         1         |   30<br>(Very Small)   |     2<br>(High)      |     0<br>(None)     | "Upset", "Fear", "Surprised", "Scared", "Thrilled", "Nervous"                                                                                                    |
