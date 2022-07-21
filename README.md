@@ -30,7 +30,7 @@ Participants watched [videos of eight movement patterns](https://github.com/mt-s
 ![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/pattern_7.gif)
 ### pattern8
 ![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/pattern_8.gif)
-## 結果
+## Result
 Each parameter is set within the following ranges.
 - Amplitude（15-210[degrees]）: Rotation angle of stepper motor shaft. The higher the value, the larger the amplitude.
 - Speed（2-8[ms]）： Equivalent to the interval between steps on the shaft of the stepper motor; the unit is ms; the higher the value, the slower the motor rotates.
