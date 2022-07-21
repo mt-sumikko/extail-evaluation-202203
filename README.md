@@ -38,10 +38,17 @@ Each parameter is set within the following ranges.
 
 ![image](https://github.com/mt-sumikko/extail-evaluation-202203/blob/main/result.png)
 
-| Operation Pattern |      Amplitude      |    Speed    | Turn waiting time | Answer (What state does the person wearing Extail appear to be in?) |
-| :---------------- | :-----------------: | :---------: | :---------------: | :------------------------------------------------------------------ |
-| 1                 | 10<br>(Ultra-small) | 2<br>(High) |    0<br>(None)    | Upset, Fear, Surprised, Scared, Thrilled, nervous                   |
-| 2                 |          ^          |      ^      |
-| 3                 |          ^          |      ^      |
-| 4                 |                     |    piyo     |
-| ^                 |          ^          |    piyo     |
+| Operation Pattern |       Amplitude        |        Speed         |  Turn waiting time  | Answer (What state does the person wearing Extail appear to be in?)                                                                                              |
+| :---------------: | :--------------------: | :------------------: | :-----------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|         1         |   30<br>(Very Small)   |     2<br>(High)      |     0<br>(None)     | "Upset", "Fear", "Surprised", "Scared", "Thrilled", "Nervous"                                                                                                    |
+|         2         | 90<br>(a little Small) |     2<br>(High)      |     0<br>(None)     | "Happy" (4), "Delighted" (2), "He looks happy because it looks like a dog's tail." And, "A little bit happy."                                                    |
+|         3         |     210<br>(Large)     |    4<br>(Medium)     |     0<br>(None)     | "Fun", "Uplifted", "Normal", "I don't know, but she seemed kind of positive and calm.", "I hate it.", "Confused", "Puzzled, Retreating", "Bored"                 |
+|         4         |    15-210<br>Random    |    2-6<br>Random     | 250-10000<br>Random | "Upset" (2), "Guilt", "Skepticism", "Nervous", "Suspicious behavior", "Thinking, Contemplation", "Timid".                                                        |
+|         5         |     60<br>(Small)      |    4<br>(Medium)     |     0<br>(None)     | "Smile," "nose itchy," "Dazed", "Itchy, Impatient", "Scared (Same as 1).”, 'I can't...' 'Sad', 'Negative', 'I'm not sure.'                                       |
+|         6         |     210<br>(Large)     | 3<br>(a little High) |    50<br>(Small)    | "Excited" (2) , "Irritated" (2), "Energetic", "Happy (Same as 2)", "Happy", "in a happy mood (In Japanese onomatopoeic word for "Rurun-Rurun".)", "Quite happy". |
+|         7         |    120<br>(Medium)     | 6<br>(a little Low)  |   200<br>(Medium)   | "Irritable", "Restless", "Focused", "It's unnatural. I don't understand.", "Lost", "unsure", "unable to read emotions"                                           |
+|         8         |     210<br>(Large)     |      8<br>(Low)      |    500<br>(High)    | "Wait and see", "Mechanical", "Lost", "Equanimity (Same as 4).", "It's unnatural. I don't understand (Same as 7).", "Calm", "unable to read emotions", "Settled" |
+
+
+
+
